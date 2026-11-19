@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dori-mattermost.png" alt="Mattermost 로고가 그려진 노트북과 옷을 든 강아지 Dori" width="320">
+  <img src="assets/dori-mattermost.png" alt="Mattermost 로고 셔츠를 입고 노트북을 든 강아지 Dori" width="320">
 </p>
 
 # dori-mattermost
