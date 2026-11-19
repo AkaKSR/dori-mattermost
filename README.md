@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/dori-mattermost.png" alt="Mattermost 로고가 그려진 노트북과 옷을 든 강아지 Dori" width="320">
+</p>
+
 # dori-mattermost
 
 [dori-superagent](https://github.com/sisyphuslabs/dori-superagent)의 Dori mode에 Mattermost 연결을 더하는 추가 패키지입니다. 이 저장소에는 Mattermost 부분만 들어 있고, Dori 본체는 설치할 때 원본 저장소에서 받습니다.
